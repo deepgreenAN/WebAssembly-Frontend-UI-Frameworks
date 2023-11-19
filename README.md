@@ -1,4 +1,4 @@
-# WebAssembly Frontends and GUIs
+# WebAssembly Frontend UI Frameworks
 
 A curated list of frontend frameworks based on WASM or GUI frameworks that can be compiled into WASM and works on the web.
 

@@ -48,6 +48,12 @@ A curated list of frontend frameworks based on WASM or GUI frameworks that can b
 
   [Official gallery](https://github.com/unoplatform/uno.gallery), and [online demo](https://gallery.platform.uno/).
 
+## D
+
+- [spasm](https://github.com/skoppe/spasm)
+
+  [Official todomvc example](https://github.com/skoppe/spasm/tree/master/examples/todo-mvc), and [online demo](https://skoppe.github.io/spasm/examples/todo-mvc/).
+
 ## Dart
 
 - [flutter](https://flutter.dev/)
@@ -59,6 +65,10 @@ A curated list of frontend frameworks based on WASM or GUI frameworks that can b
 - [bolero](https://github.com/fsbolero/bolero)
 
   [Official todomvc example](https://github.com/fsbolero/TodoMVC), and [online demo](https://fsbolero.github.io/TodoMVC/).
+
+- [Fun.Blazor](https://github.com/slaveOftime/Fun.Blazor)
+
+  [Official web site](https://slaveoftime.github.io/Fun.Blazor.Docs/documents/How-to-Contribute) is made by itself.
 
 ## Go
 

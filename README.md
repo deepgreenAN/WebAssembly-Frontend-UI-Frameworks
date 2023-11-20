@@ -18,7 +18,7 @@ A curated list of frontend frameworks based on WASM or GUI frameworks that can b
 
   [UnOfficial example](https://github.com/jnmaloney/WebGui) on the web, and [online demo](https://jnmaloney.github.io/WebGui/imgui.html).
 
-- [Qt](https://doc.qt.io/qt-6/wasm.html)
+- [Qt](https://www.qt.io/)
 
   [Official examples and demos](https://www.qt.io/qt-examples-for-webassembly).
 
